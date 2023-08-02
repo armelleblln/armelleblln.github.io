@@ -1,5 +1,5 @@
 ---
-title: "Thomas Rose"
+title: "Armelle Ballian"
 about:
   id: template-area
   template: jolla
@@ -30,13 +30,13 @@ Here goes the information to be included in the template.
 ## Legal Notice
 
 Provider according to § 5 TMG is:  
-Thomas Rose  
-Am Satz 8  
-60437 Frankfurt  
+Armelle Ballian  
+Georg-Voigt-Straße 14-16
+60325 Frankfurt  
 Germany  
 
-Phone +49 1522 3176524  
-E-Mail: thomas.rose [at] daad-alumni.de
+Phone +49 0 69 75421810  
+E-Mail: armelle.ballian [at] senckenberg.de
 
 ## Privacy
 
