@@ -12,7 +12,7 @@ about:
       text: Github
       href: https://github.com/armelleblln
 ---
-[]: # (Tasks for this page
+[comment]:  (Tasks for this page
 Update the YAML header. you can check out different layouts of the pre-formatted part at <https://quarto.org/docs/websites/website-about.html#templates>
 Update the legal information
 Write a short introduction set of you
