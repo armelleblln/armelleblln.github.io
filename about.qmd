@@ -7,10 +7,10 @@ about:
   links:
     - icon: twitter
       text: twitter
-      href: https://twitter.com
+      href: https://http://twitter.com/armelleballian/
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/armelleblln
 ---
 
 ## Tasks for this page
