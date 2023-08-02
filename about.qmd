@@ -21,9 +21,7 @@ about:
 * delete this section
 
 
-:::{#template-area} 
-
-{.justify}
+:::{#template-area, .justify}
 
 I am a geologist whose main interests cover sedimentary geology, exogenous processes and paleoenvironmental studies.
 
@@ -39,8 +37,7 @@ When I am not working on the Alpine surface uplift history, I am playing cello, 
 
 Provider according to § 5 TMG is:  
 Armelle Ballian  
-Georg-Voigt-Straße 14-16
-60325 Frankfurt  
+60433 Frankfurt am Main  
 Germany  
 
 Phone +49 0 69 75421810  
