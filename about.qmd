@@ -21,7 +21,7 @@ about:
 * delete this section
 
 
-:::{#template-area}
+:::{#template-area} {.justify}
 
 I am a geologist whose main interests cover sedimentary geology, exogenous processes and paleoenvironmental studies.
 
