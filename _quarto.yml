@@ -8,10 +8,11 @@ website:
   title: "Armelle Ballian"
   navbar:
     left:
+      - text: "About me"
+        href: about.qmd  
       - text: "My research"
         href: index.qmd
-      - text: "About me"
-        href: about.qmd
+
 
 
 format:
