@@ -11,6 +11,9 @@ about:
     - icon: github
       text: Github
       href: https://github.com/armelleblln
+    - icon: research_gate
+      text: Research Gate
+      href: https://www.researchgate.net/profile/Armelle-Ballian
 ---
 [comment]:  (Tasks for this page
 Update the YAML header. you can check out different layouts of the pre-formatted part at <https://quarto.org/docs/websites/website-about.html#templates>
