@@ -4,7 +4,7 @@ pagetitle: "Armelle Ballian"
 :::{#template-area}
 ## Vita 
 ### Education  
-Since 2021 : PhD at the Senckenberg Climate and Biodiversity Research Centre (Frankfurt am Main, Germany)
+Since 2021 : PhD student at the Senckenberg Climate and Biodiversity Research Centre (SBiK-Frankfurt am Main, Germany)
 2017-2020 : Master of Science in Geology at the University of Freiburg im Breisgau (Germany)  
 2014-2017 : Bachelor of Science in Geology at the Jean Monnet University (Saint-Etienne, France)
 
