@@ -15,8 +15,7 @@ Since 2021 : PhD student at the Senckenberg Climate and Biodiversity Research Ce
 ## Publications 
 Ballian, A., Chawchai, S., Miocic, J. M., Charoenchatree, W., Bissen, R., & Preusser, F. (2023).  
 Late Holocene coastal dynamics south of the Chanthaburi estuary, eastern Gulf of Thailand. Quaternary Research, 1-11.  
-https://www.cambridge.org/core/journals/quaternary-research/article/abs/late-holocene-coastal-dynamics-south-of-the-chanthaburi-estuary-eastern-gulf-of-thailand/CA506FAE3DF018CE3D7D2AEA52C6F4C9  
-
+[here](https://www.cambridge.org/core/journals/quaternary-research/article/abs/late-holocene-coastal-dynamics-south-of-the-chanthaburi-estuary-eastern-gulf-of-thailand/CA506FAE3DF018CE3D7D2AEA52C6F4C9){target="_blank"}
 Boateng, D., Mutz, S. G., Ballian, A., Meijers, M. J., Methner, K., Botsyun, S., Mulch, A., & Ehlers, T. A. (in review).  
 The effects of diachronous surface uplift of the European Alps on regional climate and the oxygen isotopic composition of precipitation. Earth System Dynamics Discussions, 1-45.   
 https://esd.copernicus.org/preprints/esd-2022-48/esd-2022-48.pdf  
