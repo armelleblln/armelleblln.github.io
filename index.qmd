@@ -3,18 +3,26 @@ pagetitle: "Armelle Ballian"
 ---
 :::{#template-area}
 ## Vita 
+### Education  
 Since 2021 : PhD at the Senckenberg Climate and Biodiversity Research Centre (Frankfurt am Main, Germany)
 2017-2020 : Master of Science in Geology at the University of Freiburg im Breisgau (Germany)  
-2014-2017 : Bachelor of Science in Geology at the Jean Monnet University of Saint-Etienne (France)
+2014-2017 : Bachelor of Science in Geology at the Jean Monnet University (Saint-Etienne, France)
+
+### Professional experience  
+2020-2021 : Technician position for hydrogeochemistry at the Laboratoire de Géologie de Lyon, Jean Monnet University (Saint-Etienne, France)  
+2018-2020 : Research assistant at the Sedimentary Geology and Quaternary Research department, University of Freiburg im Breisgau (Germany)   
 :::
 ## Publications 
 
 Ballian, A., Chawchai, S., Miocic, J. M., Charoenchatree, W., Bissen, R., & Preusser, F. (2023).  
 Late Holocene coastal dynamics south of the Chanthaburi estuary, eastern Gulf of Thailand. Quaternary Research, 1-11.  
+https://www.cambridge.org/core/journals/quaternary-research/article/abs/late-holocene-coastal-dynamics-south-of-the-chanthaburi-estuary-eastern-gulf-of-thailand/CA506FAE3DF018CE3D7D2AEA52C6F4C9  
 
-Boateng, D., Mutz, S. G., Ballian, A., Meijers, M. J., Methner, K., Botsyun, S., Mulch, A. & Ehlers, T. A. (in review).  
+Boateng, D., Mutz, S. G., Ballian, A., Meijers, M. J., Methner, K., Botsyun, S., Mulch, A., & Ehlers, T. A. (in review).  
 The effects of diachronous surface uplift of the European Alps on regional climate and the oxygen isotopic composition of precipitation. Earth System Dynamics Discussions, 1-45.   
-https://esd.copernicus.org/preprints/esd-2022-48/esd-2022-48.pdf
+https://esd.copernicus.org/preprints/esd-2022-48/esd-2022-48.pdf  
 
 :::
-## Research abstracts
+## Conference abstracts
+Ballian, A., Meijers, M., Cojan, I., Huyghe, D., Fiebig, J., & Mulch, A. (2022)  Early-Miocene stable isotope paleoaltimetry estimates for the Central Alps.   
+https://scholar.google.com/citations?view_op=view_citation&hl=fr&user=aId4LewAAAAJ&citation_for_view=aId4LewAAAAJ:u5HHmVD_uO8C
