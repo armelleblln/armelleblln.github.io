@@ -11,7 +11,7 @@ about:
     - icon: github
       text: Github
       href: https://github.com/armelleblln
-    - icon: scholar
+    - icon: book
       text: Google Scholar
       href: https://scholar.google.com/citations?user=aId4LewAAAAJ&hl=fr
 ---
@@ -23,7 +23,7 @@ delete this section)
 
 
 :::{#template-area}
-
+Hi there !  
 I am a geologist whose main interests cover sedimentary geology, exogenous processes and paleoenvironmental studies.
 
 My PhD project is part of the second phase of a DFG-funded SPP  ‘Mountain Building Processes in Four Dimensions (MB-4D)’.
@@ -36,14 +36,13 @@ When I am not working on the Alpine surface uplift history, I am playing cello, 
 :::
 ## Vita 
 ### Education  
-Since 2021 : PhD student at the Senckenberg Climate and Biodiversity Research Centre (SBiK-Frankfurt am Main, Germany)
-2017-2020 : Master of Science in Geology at the University of Freiburg im Breisgau (Germany)  
-2014-2017 : Bachelor of Science in Geology at the Jean Monnet University (Saint-Etienne, France)
+Senckenberg Climate and Biodiversity Research Centre (SBiK-Frankfurt am Main, Germany) | PhD student | 2021 - present  
+University of Freiburg im Breisgau (Germany) | Master of Science in Geology | 2017-2020  
+Jean Monnet University (Saint-Etienne, France) | Bachelor of Science in Geology | 2014-2017  
 
 ### Professional experience  
-2020-2021 : Technician position for hydrogeochemistry at the Laboratoire de Géologie de Lyon, Jean Monnet University (Saint-Etienne, France)  
-2018-2020 : Research assistant at the Sedimentary Geology and Quaternary Research department, University of Freiburg im Breisgau (Germany)   
-:::
+Laboratoire de Géologie de Lyon, Jean Monnet University (Saint-Etienne, France) | Technician position for hydrogeochemistry | 2020-2021  
+Sedimentary Geology and Quaternary Research department, University of Freiburg im Breisgau (Germany) | Research assistant | 2018-2020  
 
 ## Legal Notice
 
