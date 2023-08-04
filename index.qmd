@@ -2,8 +2,10 @@
 pagetitle: "Armelle Ballian"
 ---
 :::{#template-area}
-
-
+## Vita 
+Since 2021 : PhD at the Senckenberg Climate and Biodiversity Research Centre (Frankfurt am Main, Germany)
+2017-2020 : Master of Science in Geology at the University of Freiburg im Breisgau (Germany)  
+2014-2017 : Bachelor of Science in Geology at the Jean Monnet University of Saint-Etienne (France)
 :::
 ## Publications 
 
@@ -12,7 +14,7 @@ Late Holocene coastal dynamics south of the Chanthaburi estuary, eastern Gulf of
 
 Boateng, D., Mutz, S. G., Ballian, A., Meijers, M. J., Methner, K., Botsyun, S., Mulch, A. & Ehlers, T. A. (in review).  
 The effects of diachronous surface uplift of the European Alps on regional climate and the oxygen isotopic composition of precipitation. Earth System Dynamics Discussions, 1-45.   
-[link]https://esd.copernicus.org/preprints/esd-2022-48/esd-2022-48.pdf{target="_blank"}
+https://esd.copernicus.org/preprints/esd-2022-48/esd-2022-48.pdf
 
-
+:::
 ## Research abstracts
