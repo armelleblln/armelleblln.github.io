@@ -1,5 +1,40 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Armelle Ballian",
+    "section": "",
+    "text": "I am a geologist whose main interests cover sedimentary geology, exogenous processes and paleoenvironmental studies.\nMy PhD project is part of the second phase of a DFG-funded SPP ‘Mountain Building Processes in Four Dimensions (MB-4D)’.\nThe project, entitled ‘Reconstructing Eastward Propagation of Surface Uplift in the Alps: Integrating Stable Isotope Paleoaltimetry and Paleoclimate Modelling (REAL)’ aims at constraining the surface uplift history of the European Alps in a paleoclimatic context.\nMy project focuses on the Western and Eastern Alps, along with extending the record for the Central Alps to pre-Miocene times. The research focuses on stable isotope-based paleoelevation and paleoclimate reconstructions (ẟ18O, ẟD, D47-D48). The obtained ẟ-ẟ paleoaltimetry and clumped isotope-derived paleotemperature records are coupled with an isotope tracking atmospheric General Circulation Model (GCM) performed by colleagues from the ‘Earth System Dynamics Group’ at the University of Tübingen.\nWhen I am not working on the Alpine surface uplift history, I am playing cello, boxing or crafting !"
+  },
+  {
+    "objectID": "about.html#vita",
+    "href": "about.html#vita",
+    "title": "Armelle Ballian",
+    "section": "Vita",
+    "text": "Vita\n\nEducation\nSenckenberg Climate and Biodiversity Research Centre (SBiK-Frankfurt am Main, Germany) | PhD student | 2021 - present\nUniversity of Freiburg im Breisgau (Germany) | Master of Science in Geology | 2017-2020\nJean Monnet University (Saint-Etienne, France) | Bachelor of Science in Geology | 2014-2017\n\n\nProfessional experience\nLaboratoire de Géologie de Lyon, Jean Monnet University (Saint-Etienne, France) | Technician position for hydrogeochemistry | 2020-2021\nSedimentary Geology and Quaternary Research department, University of Freiburg im Breisgau (Germany) | Research assistant | 2018-2020"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Armelle Ballian",
+    "section": "",
+    "text": "::: Hi there !\n:::"
+  },
+  {
+    "objectID": "index.html#legal-notice",
+    "href": "index.html#legal-notice",
+    "title": "Armelle Ballian",
+    "section": "Legal Notice",
+    "text": "Legal Notice\nProvider according to § 5 TMG is:\nArmelle Ballian\n60433 Frankfurt am Main\nGermany\nPhone +49 0 69 75421810\nE-Mail: armelle.ballian [at] senckenberg.de"
+  },
+  {
+    "objectID": "index.html#privacy",
+    "href": "index.html#privacy",
+    "title": "Armelle Ballian",
+    "section": "Privacy",
+    "text": "Privacy\nThis webpage does not use any cookies. It does not collect, store or process personal data. The website is hosted by GitHub Inc. using GitHub pages. The privacy statement of Github is available here."
+  },
+  {
     "objectID": "publi.html",
     "href": "publi.html",
     "title": "Armelle Ballian",
@@ -19,26 +54,5 @@
     "title": "Armelle Ballian",
     "section": "Conference abstracts",
     "text": "Conference abstracts\nBallian, A., Meijers, M., Cojan, I., Huyghe, D., Fiebig, J., & Mulch, A. (2022) Early-Miocene stable isotope paleoaltimetry estimates for the Central Alps.☺︎\nBallian, A., Meijers, M., Methner, K., Cojan, I., Huyghe, D., Fiebig, J., & Mulch, A. (2022) A Miocene (23–12.5 Ma) continental paleotemperature record from the northern Mediterranean region (Digne-Valensole Basin, SE France). ☺︎"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Armelle Ballian",
-    "section": "",
-    "text": ":::{#template-area} Hi there !"
-  },
-  {
-    "objectID": "index.html#legal-notice",
-    "href": "index.html#legal-notice",
-    "title": "Armelle Ballian",
-    "section": "Legal Notice",
-    "text": "Legal Notice\nProvider according to § 5 TMG is:\nArmelle Ballian\n60433 Frankfurt am Main\nGermany\nPhone +49 0 69 75421810\nE-Mail: armelle.ballian [at] senckenberg.de"
-  },
-  {
-    "objectID": "index.html#privacy",
-    "href": "index.html#privacy",
-    "title": "Armelle Ballian",
-    "section": "Privacy",
-    "text": "Privacy\nThis webpage does not use any cookies. It does not collect, store or process personal data. The website is hosted by GitHub Inc. using GitHub pages. The privacy statement of Github is available here."
   }
 ]
