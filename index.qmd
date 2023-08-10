@@ -22,9 +22,9 @@ Write a short introduction set of you
 delete this section)
 
 
-:::{#template-area}
+:::
 Hi there !  
-
+:::
 
 ## Legal Notice
 
