@@ -6,6 +6,8 @@ website:
   repo-url: https://github.com/armelleblln/armelleblln.github.io/
   favicon: favicon.png
   title: "Armelle Ballian"
+  reader-mode: true
+  back-to-top-navigation: true
   navbar:
     left:
       - text: "About me"
