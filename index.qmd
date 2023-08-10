@@ -22,7 +22,7 @@ Write a short introduction set of you
 delete this section)
 
 
-:::
+-----
 Hi there !  
 
 I am currently a PhD student in the group 'Paleoclimate and Paleoenvironmental Dynamics' at the Senckenberg Biodiversity and Climate Research Centre (Frankfurt, Germany). 
@@ -38,7 +38,6 @@ Je suis actuellement doctorante dans le groupe 'Paléoclimat et Dynamiques Palé
 Au-dessous sont quelques photos de travaux de terrains des dernières années (Thaïlande, France, Espagne, Alpes autrichiennes).
 
 
-:::
 
 
 
