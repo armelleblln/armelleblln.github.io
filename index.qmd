@@ -24,14 +24,12 @@ delete this section)
 
 -------
 Hi there !  
-
 I am currently a PhD student in the group 'Paleoclimate and Paleoenvironmental Dynamics' at the Senckenberg Biodiversity and Climate Research Centre (Frankfurt, Germany).   
 Below are some pictures from diverse field work I conducted in the past years (Thailand, France, Spain, Austrian Alps).
 
 --
 
 Bonjour ! 
-
 Je suis actuellement doctorante dans le groupe 'Paléoclimat et Dynamiques Paléoenvironnementales' au sein de Senckenberg, institut de recherche pour le climat et la biodiversité.  
 Au-dessous sont quelques photos de travaux de terrains des dernières années (Thaïlande, France, Espagne, Alpes autrichiennes).
 
@@ -43,7 +41,7 @@ Au-dessous sont quelques photos de travaux de terrains des dernières années (T
 
 Provider according to § 5 TMG is:  
 Armelle Ballian  
-Georg-Voigt-Str. 14-16
+Georg-Voigt-Str. 14-16  
 60325 Frankfurt am Main  
 Germany  
 
