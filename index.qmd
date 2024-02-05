@@ -17,7 +17,7 @@ about:
     - icon: mouse
       text: Research Group page
       href: https://www.senckenberg.de/en/institutes/sbik-f/ag-paleoclimate-and-paleoenvironment-dynamics/
- - icon: person-vcard
+    - icon: person-vcard
       text: contact
       href: https://vcard.link/card/Dm8n.vcf
 ---
