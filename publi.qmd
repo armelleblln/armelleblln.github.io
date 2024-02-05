@@ -3,13 +3,13 @@ pagetitle: "Armelle Ballian"
 ---
 :::{#template-area}
 ## Publications 
-Bernecker, M., Hofmann, S., Staudigel, P. T., Davies, A. J., Tagliavento, M., Meijer, N., Ballian, A., & Fiebig, J. (2023). A robust methodology for triple (∆ 47,∆ 48,∆ 49) clumped isotope analysis of carbonates. Chemical Geology, 642, 121803. [🔎](https://www.sciencedirect.com/science/article/pii/S0009254123005041){target="_blank"} 
+Bernecker, M., Hofmann, S., Staudigel, P. T., Davies, A. J., Tagliavento, M., Meijer, N., Ballian, A., & Fiebig, J. (2023). A robust methodology for triple (∆ 47,∆ 48,∆ 49) clumped isotope analysis of carbonates. Chemical Geology, 642, 121803 [🔎](https://www.sciencedirect.com/science/article/pii/S0009254123005041){target="_blank"} 
 
 Boateng, D., Mutz, S. G., Ballian, A., Meijers, M. J., Methner, K., Botsyun, S., Mulch, A., & Ehlers, T. A. (2023).  
-The effects of diachronous surface uplift of the European Alps on regional climate and the oxygen isotopic composition of precipitation. Earth System Dynamics Discussions, 1-45. [🔎](https://esd.copernicus.org/preprints/esd-2022-48/esd-2022-48.pdf){target="_blank"} 
+The effects of diachronous surface uplift of the European Alps on regional climate and the oxygen isotopic composition of precipitation. Earth System Dynamics Discussions, 1-45 [🔎](https://esd.copernicus.org/preprints/esd-2022-48/esd-2022-48.pdf){target="_blank"} 
 
 Ballian, A., Chawchai, S., Miocic, J. M., Charoenchatree, W., Bissen, R., & Preusser, F. (2023).  
-Late Holocene coastal dynamics south of the Chanthaburi estuary, eastern Gulf of Thailand. Quaternary Research, 1-11.[🔎](https://www.cambridge.org/core/journals/quaternary-research/article/abs/late-holocene-coastal-dynamics-south-of-the-chanthaburi-estuary-eastern-gulf-of-thailand/CA506FAE3DF018CE3D7D2AEA52C6F4C9){target="_blank"}  
+Late Holocene coastal dynamics south of the Chanthaburi estuary, eastern Gulf of Thailand. Quaternary Research, 1-11 [🔎](https://www.cambridge.org/core/journals/quaternary-research/article/abs/late-holocene-coastal-dynamics-south-of-the-chanthaburi-estuary-eastern-gulf-of-thailand/CA506FAE3DF018CE3D7D2AEA52C6F4C9){target="_blank"}  
  
 :::
 ## Conference abstracts  
