@@ -6,7 +6,7 @@ about:
   image: profile.png
   links:
     - icon: twitter
-      text: twitter
+      text: X (Ex-twitter)
       href: https://twitter.com/armelleballian/
     - icon: github
       text: Github
