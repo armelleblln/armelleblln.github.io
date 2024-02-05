@@ -14,6 +14,12 @@ about:
     - icon: book
       text: Google Scholar
       href: https://scholar.google.com/citations?user=aId4LewAAAAJ&hl=fr
+    - icon: mouse
+      text: Research Group page
+      href: https://www.senckenberg.de/en/institutes/sbik-f/ag-paleoclimate-and-paleoenvironment-dynamics/
+ - icon: person-vcard
+      text: contact
+      href: https://vcard.link/card/Dm8n.vcf
 ---
 [comment]:  (Tasks for this page
 Update the YAML header. you can check out different layouts of the pre-formatted part at <https://quarto.org/docs/websites/website-about.html#templates>
