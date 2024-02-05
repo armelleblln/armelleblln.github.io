@@ -24,13 +24,10 @@ delete this section)
 
 -------
 Hello !  
-I am currently a PhD student in the group 'Paleoclimate and Paleoenvironmental Dynamics' at the Senckenberg Biodiversity and Climate Research Centre (Frankfurt, Germany).   
-
+I am currently a PhD student in the group 'Paleoclimate and Paleoenvironmental Dynamics' at the Senckenberg Biodiversity and Climate Research Centre (Frankfurt, Germany).    
 --
 Bonjour ! 
 Je suis actuellement doctorante dans le groupe 'Paléoclimat et Dynamiques Paléoenvironnementales' au sein de Senckenberg, institut de recherche pour le climat et la biodiversité.  
-
-
 -------
 
 
