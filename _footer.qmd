@@ -1,0 +1,27 @@
+---
+footer:
+  license: CC BY-NC-SA 4.0
+  copyright: "© 2024 Armelle Ballian"
+---
+
+<footer style="text-align: center; padding: 1em 0;">
+  <h3>Legal Notice</h3>
+  <p>Provider according to § 5 TMG is:</p>
+  <p>
+    Armelle Ballian<br>
+    Georg-Voigt-Str. 14-16<br>
+    60325 Frankfurt am Main<br>
+    Germany<br>
+    <br>
+    Phone: +49 0 69 75421810<br>
+    E-Mail: armelle.ballian [at] senckenberg.de
+  </p>
+  <h3>Privacy</h3>
+  <p>
+    This webpage does not use any cookies. It does not collect, store or process personal data. The website is hosted by 
+    <a href="https://github.com/" target="_blank">GitHub Inc.</a> using 
+    <a href="https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages" target="_blank">GitHub Pages</a>. 
+    The privacy statement of GitHub is available 
+    <a href="https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement" target="_blank">here</a>.
+  </p>
+</footer>
