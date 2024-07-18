@@ -17,6 +17,8 @@ website:
         href: about.qmd  
       - text: "Publications"
         href: publi.qmd
+      - text: "Curriculum Vitae"
+        href: cv.qmd
 
 
 format:
