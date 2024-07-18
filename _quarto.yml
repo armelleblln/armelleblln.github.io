@@ -17,8 +17,7 @@ website:
       - text: "Publications"
         href: publi.qmd
 
-body-header: | 
-  footer.qmd
+body-header: footer.qmd
 format:
   html:
     theme: cosmo
