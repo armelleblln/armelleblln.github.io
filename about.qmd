@@ -2,6 +2,7 @@
 pagetitle: "Armelle Ballian"
 ---
 :::{#template-area}
+## My Story
 I am a geologist whose main interests cover sedimentary geology, exogenous processes and paleoenvironmental studies.
 
 My PhD project is part of the second phase of a DFG-funded SPP  ‘Mountain Building Processes in Four Dimensions (MB-4D)’.
