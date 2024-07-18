@@ -3,14 +3,15 @@ pagetitle: "Armelle Ballian"
 ---
 :::{#template-area}
 ## Publications 
-Bernecker, M., Hofmann, S., Staudigel, P. T., Davies, A. J., Tagliavento, M., Meijer, N., Ballian, A., & Fiebig, J. (2023). A robust methodology for triple (∆ 47,∆ 48,∆ 49) clumped isotope analysis of carbonates. Chemical Geology, 642, 121803 [🔍](https://www.sciencedirect.com/science/article/pii/S0009254123005041){target="_blank"} 
+Ballian, A., Meijers, M. J. M., Cojan, I., Huyghe, D., Bernecker, M., Methner, K., Tagliavento, M., Fiebig, J., and Mulch, A.: Middle Miocene climate evolution in the Northern Mediterranean region (Digne-Valensole basin, SE France), EGUsphere, 2024, 1–24, https://doi.org/10.5194/egusphere-2024-2093, 2024.
 
-Boateng, D., Mutz, S. G., Ballian, A., Meijers, M. J., Methner, K., Botsyun, S., Mulch, A., & Ehlers, T. A. (2023).  
+Ballian, A., Chawchai, S., Miocic, J. M., Charoenchatree, W., Bissen, R., and Preusser, F. (2024).  
+Late Holocene coastal dynamics south of the Chanthaburi estuary, eastern Gulf of Thailand.  Quaternary Research. 117:19-29 [🔍](https://www.cambridge.org/core/journals/quaternary-research/article/abs/late-holocene-coastal-dynamics-south-of-the-chanthaburi-estuary-eastern-gulf-of-thailand/CA506FAE3DF018CE3D7D2AEA52C6F4C9){target="_blank"} 
+
+Bernecker, M., Hofmann, S., Staudigel, P. T., Davies, A. J., Tagliavento, M., Meijer, N., Ballian, A., and Fiebig, J. (2023). A robust methodology for triple (∆ 47,∆ 48,∆ 49) clumped isotope analysis of carbonates. Chemical Geology, 642, 121803 [🔍](https://www.sciencedirect.com/science/article/pii/S0009254123005041){target="_blank"} 
+
+Boateng, D., Mutz, S. G., Ballian, A., Meijers, M. J. M. , Methner, K., Botsyun, S., Mulch, A., and Ehlers, T. A. (2023).  
 The effects of diachronous surface uplift of the European Alps on regional climate and the oxygen isotopic composition of precipitation. Earth System Dynamics Discussions, 1-45 [🔍](https://esd.copernicus.org/articles/14/1183/2023/esd-14-1183-2023.pdf){target="_blank"} 
-
-Ballian, A., Chawchai, S., Miocic, J. M., Charoenchatree, W., Bissen, R., & Preusser, F. (2023).  
-Late Holocene coastal dynamics south of the Chanthaburi estuary, eastern Gulf of Thailand. Quaternary Research, 1-11 [🔍](https://www.cambridge.org/core/journals/quaternary-research/article/abs/late-holocene-coastal-dynamics-south-of-the-chanthaburi-estuary-eastern-gulf-of-thailand/CA506FAE3DF018CE3D7D2AEA52C6F4C9){target="_blank"}  
- 
 :::
 ## Conference abstracts  
 Ballian, A., Meijers, M. J. M., Methner, K., Cojan, I., Huyghe, D., Fiebig, J., & Mulch, A. (2023). Miocene (23-13 Ma) continental paleotemperature record from the northern Mediterranean region (Digne-Valensole basin, SE France) within a global climatic framework. Annual 4D-MB Scientific Meeting. [🔍](http://dx.doi.org/10.17169/refubium-40985){target="_blank"} 
