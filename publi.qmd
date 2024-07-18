@@ -3,7 +3,8 @@ pagetitle: "Armelle Ballian"
 ---
 :::{#template-area}
 ## Publications 
-Ballian, A., Meijers, M. J. M., Cojan, I., Huyghe, D., Bernecker, M., Methner, K., Tagliavento, M., Fiebig, J., and Mulch, A.: Middle Miocene climate evolution in the Northern Mediterranean region (Digne-Valensole basin, SE France), EGUsphere, 2024, 1–24, https://doi.org/10.5194/egusphere-2024-2093, 2024.
+Ballian, A., Meijers, M. J. M., Cojan, I., Huyghe, D., Bernecker, M., Methner, K., Tagliavento, M., Fiebig, J., and Mulch, A. (2024).
+Middle Miocene climate evolution in the Northern Mediterranean region (Digne-Valensole basin, SE France), EGUsphere, 2024, 1–24 [🔍](https://doi.org/10.5194/egusphere-2024-2093){target="_blank"}  
 
 Ballian, A., Chawchai, S., Miocic, J. M., Charoenchatree, W., Bissen, R., and Preusser, F. (2024).  
 Late Holocene coastal dynamics south of the Chanthaburi estuary, eastern Gulf of Thailand.  Quaternary Research. 117:19-29 [🔍](https://www.cambridge.org/core/journals/quaternary-research/article/abs/late-holocene-coastal-dynamics-south-of-the-chanthaburi-estuary-eastern-gulf-of-thailand/CA506FAE3DF018CE3D7D2AEA52C6F4C9){target="_blank"} 
