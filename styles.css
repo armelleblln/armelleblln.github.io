@@ -4,15 +4,14 @@
   text-align: justify !important
 }
 ```
+/* Footer should be placed at the bottom */
 footer {
-  text-align: center;
+  margin-top: auto;
   padding: 1em 0;
+  text-align: center;
 }
 
-footer p {
-  margin: 0.5em 0;
-}
-
+/* Additional styling for footer links */
 footer a {
   color: inherit;
   text-decoration: underline;
