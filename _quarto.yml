@@ -8,7 +8,7 @@ website:
   title: "Armelle Ballian"
   reader-mode: true
   back-to-top-navigation: true
-  footer: _footer.qmd
+  body-footer: _footer.qmd
   navbar:
     left:
       - text: "Home"
