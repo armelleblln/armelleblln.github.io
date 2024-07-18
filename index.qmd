@@ -29,26 +29,11 @@ delete this section)
 
 
 -------
-Hello !  
-I am currently a PhD student in the group 'Paleoclimate and Paleoenvironmental Dynamics' at the Senckenberg Biodiversity and Climate Research Centre (Frankfurt, Germany).    
+I am currently a 4th year PhD student in the group [Paleoclimate and Paleoenvironmental Dynamics](https://www.senckenberg.de/en/institutes/sbik-f/ag-paleoclimate-and-paleoenvironment-dynamics/){target="_blank"} at the Senckenberg Biodiversity and Climate Research Centre (Frankfurt, Germany).    
+My 
 --
-Bonjour ! 
-Je suis actuellement doctorante dans le groupe 'Paléoclimat et Dynamiques Paléoenvironnementales' au sein de Senckenberg, institut de recherche pour le climat et la biodiversité.  
+Je suis actuellement en 4ème année de doctorat dans le groupe 'Paléoclimat et Dynamiques Paléoenvironnementales' au sein de Senckenberg, institut de recherche pour le climat et la biodiversité.  
 -------
 
 
 
-## Legal Notice
-
-Provider according to § 5 TMG is:  
-Armelle Ballian  
-Georg-Voigt-Str. 14-16  
-60325 Frankfurt am Main  
-Germany  
-
-Phone +49 0 69 75421810  
-E-Mail: armelle.ballian [at] senckenberg.de
-
-## Privacy
-
-This webpage does not use any cookies. It does not collect, store or process personal data. The website is hosted by [GitHub Inc.](https://github.com/){target="_blank"} using [GitHub pages](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages){target="_blank"}. The privacy statement of Github is available [here](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement){target="_blank"}. 
