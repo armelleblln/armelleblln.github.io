@@ -1,4 +1,4 @@
-<footer style="text-align: center; padding: 1em 0;">
+<footer>
   <h3>Legal Notice</h3>
   <p>Provider according to § 5 TMG is:</p>
   <p>
