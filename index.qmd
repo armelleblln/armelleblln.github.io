@@ -32,4 +32,35 @@ delete this section)
 I am currently a 4th year PhD student in the Research Group Paleoclimate and Paleoenvironmental Dynamics at Senckenberg Biodiversity and Climate Research Centre (Frankfurt am Main, Germany). 
 --
 Je suis actuellement en 4ème année de doctorat dans le groupe de recherche Paléoclimat et Dynamiques Paléoenvironnementales au sein de Senckenberg, institut de recherche pour le climat et la biodiversité (Francfort sur le Main, Allemagne).  
--------
+--
+## Field pictures
+
+<div class="gallery">
+    <div class="gallery-item">
+        <img src="images/pic1.jpg" alt="Photo 1">
+    </div>
+    <div class="gallery-item">
+        <img src="images/pic2.jpg" alt="Photo 2">
+    </div>
+    <div class="gallery-item">
+        <img src="images/pic3.jpg" alt="Photo 3">
+    </div>
+    <!-- Add more images as needed -->
+</div>
+
+<style>
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 10px;
+}
+
+.gallery-item {
+    margin-bottom: 10px;
+}
+
+.gallery-item img {
+    width: 100%;
+    height: auto;
+}
+</style>
