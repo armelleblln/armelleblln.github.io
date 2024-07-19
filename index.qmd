@@ -28,10 +28,12 @@ Write a short introduction set of you
 delete this section)
 
 
--------
-I am currently a 4th year PhD student in the Research Group Paleoclimate and Paleoenvironmental Dynamics at Senckenberg Biodiversity and Climate Research Centre (Frankfurt am Main, Germany). You can find below pictures from the fieldwork carried out during my Master’s and PhD studies.
+-----
+I am currently a 4th year PhD student in the Research Group Paleoclimate and Paleoenvironmental Dynamics at Senckenberg Biodiversity and Climate Research Centre (Frankfurt am Main, Germany). 
+You can find below pictures from the fieldwork carried out during my Master’s and PhD studies.
 --
-Je suis actuellement en 4ème année de doctorat dans le groupe de recherche Paléoclimat et Dynamiques Paléoenvironnementales au sein de Senckenberg, institut de recherche pour le climat et la biodiversité (Francfort sur le Main, Allemagne). Ci-dessous, des photos du travail de terrain effectué pendant mes études de Master et de doctorat.
+Je suis actuellement en 4ème année de doctorat dans le groupe de recherche Paléoclimat et Dynamiques Paléoenvironnementales au sein de Senckenberg, institut de recherche pour le climat et la biodiversité (Francfort sur le Main, Allemagne). 
+Ci-dessous, des photos du travail de terrain effectué pendant mes études de Master et de doctorat.
 --
 
 ![Chanthaburi Region, Thailand](pic3.jpg)
