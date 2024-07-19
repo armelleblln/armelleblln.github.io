@@ -35,7 +35,6 @@ Je suis actuellement en 4ème année de doctorat dans le groupe de recherche Pal
 --
 ## Field pictures
 
-
 <div class="gallery">
     <div class="gallery-item">
         <img src="images/pic1.jpeg" alt="Photo 1">
@@ -46,7 +45,6 @@ Je suis actuellement en 4ème année de doctorat dans le groupe de recherche Pal
     <div class="gallery-item">
         <img src="images/pic3.jpg" alt="Photo 3">
     </div>
-  
 </div>
 
 <style>
