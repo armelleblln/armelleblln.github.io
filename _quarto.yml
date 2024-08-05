@@ -11,8 +11,6 @@ website:
   body-footer: _footer.qmd
   navbar:
     left:
-      - text: "Home"
-        href: index.qmd
       - text: "About me"
         href: about.qmd  
       - text: "Publications"
