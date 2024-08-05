@@ -3,7 +3,11 @@ pagetitle: "Armelle Ballian"
 ---
 :::{#template-area}
 ## My Story
-I am a geologist whose main interests cover sedimentary geology, exogenous processes and paleoenvironmental studies.
+I'm a passionate geologist and paleoclimate scientist based in Frankfurt am Main, Germany. With a deep love for understanding Earth's processes, I dedicate my work to uncovering the past climates and environments of our planet. My main interests cover sedimentary geology, exogenous processes and paleoenvironmental studies.
+
+I graduated with a Master's degree in Geology from the University of Freiburg. My MSc thesis aimed at reconstructing the Holocene coastal dynamics of the Chanthaburi estuary in the Gulf of Thailand. 
+I joined Senckenberg in 2021 to pursue my academic journey with a PhD and expend my knowledge in paleoclimate and geochemistry. 
+
 
 My PhD project is part of the second phase of a DFG-funded SPP  ‘Mountain Building Processes in Four Dimensions (MB-4D)’.
 
