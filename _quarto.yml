@@ -17,6 +17,8 @@ website:
         href: about.qmd  
       - text: "Publications"
         href: publi.qmd
+      - text: "Awards"
+        href: award.qmd
       - text: "CV"
         href: cv.qmd
 
