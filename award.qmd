@@ -4,6 +4,9 @@ pagetitle: "Awards"
 :::{#template-area}
 ## Awards
 
+September 2024 | GeoSaxonia 2024 Poster Presentation Award 3rd place
+
+
 April 2024 | AGU23 Outstanding Student Presentation Award (OSPA) [🔍](https://www.agu.org/honors/ospa/past-recipients){target="_blank"}  
 
 
