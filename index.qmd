@@ -5,9 +5,10 @@ about:
   template: jolla
   image: profile.png
   links:
-    - icon: twitter-x
-      text: X (Ex-twitter)
-      href: https://twitter.com/armelleballian/
+    - icon: bluesky
+      text: bluesky
+      href: https://bsky.app/profile/armelleballian.bsky.social
+
     - icon: github
       text: Github
       href: https://github.com/armelleblln
@@ -28,10 +29,10 @@ Write a short introduction set of you
 delete this section)
 
 -----
-I am currently a 4th year PhD student in the Research Group Paleoclimate and Paleoenvironmental Dynamics at Senckenberg Biodiversity and Climate Research Centre (Frankfurt am Main, Germany). 
+I am currently a Research Scientist in the Climatology and the Biosphere group at the Geo- and Environmental Research Centre (GUZ) at the University of Tübingen (Germany). 
 You can find below pictures from the fieldwork carried out during my Master’s and PhD studies.
 --
-Je suis actuellement en 4ème année de doctorat dans le groupe de recherche Paléoclimat et Dynamiques Paléoenvironnementales au sein de Senckenberg, institut de recherche pour le climat et la biodiversité (Francfort sur le Main, Allemagne). 
+Je travaille actuellement au sein du groupe 'Climatology and the Biosphere' à l''université de Tübingen (Allemagne). 
 Ci-dessous, des photos du travail de terrain effectué pendant mes études de Master et de doctorat.
 --
 
