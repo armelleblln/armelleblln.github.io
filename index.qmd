@@ -8,7 +8,6 @@ about:
     - icon: bluesky
       text: bluesky
       href: https://bsky.app/profile/armelleballian.bsky.social
-
     - icon: github
       text: Github
       href: https://github.com/armelleblln
@@ -17,7 +16,7 @@ about:
       href: https://scholar.google.com/citations?user=aId4LewAAAAJ&hl=fr
     - icon: mouse
       text: Research Group page
-      href: https://www.senckenberg.de/en/institutes/sbik-f/ag-paleoclimate-and-paleoenvironment-dynamics/
+      href: https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/geowissenschaften/arbeitsgruppen/geo-und-umweltnaturwissenschaften/geo-und-umweltnaturwissenschaften/climatology-and-the-biosphere/workgroup/
     - icon: person-vcard
       text: Contact
       href: https://vcard.link/card/Dm8n.vcf
