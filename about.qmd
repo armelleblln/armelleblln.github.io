@@ -6,7 +6,7 @@ pagetitle: "Armelle Ballian"
 I'm a passionate geologist and paleoclimate scientist based in Tübingen, Germany. With a deep love for understanding Earth's processes, I dedicate my work to uncovering the past climates and environments of our planet. My main interests cover isotope geochemistry, paleoclimatology, exogenous processes, and paleoenvironmental studies.
 
 I graduated with a Master's degree in Geology from the University of Freiburg. My MSc thesis aimed at reconstructing the Holocene coastal dynamics of the Chanthaburi estuary in the Gulf of Thailand. 
-I pursued my academic journey in 2021 with a PhD at the [Senckenberg Biodiversity and Climate Research Centre] (https://www.senckenberg.de/en/institutes/sbik-f/ag-paleoclimate-and-paleoenvironment-dynamics/){target="_blank"} in Frankfurt am Main expending my knowledge in paleoclimate and geochemistry. 
+I pursued my academic journey in 2021 with a PhD at the Senckenberg Biodiversity and Climate Research Centre [i] (https://www.senckenberg.de/en/institutes/sbik-f/ag-paleoclimate-and-paleoenvironment-dynamics/){target="_blank"} in Frankfurt am Main expending my knowledge in paleoclimate and geochemistry. 
 
 
 My PhD project is part of the second phase of a DFG-funded SPP  ‘Mountain Building Processes in Four Dimensions (MB-4D)’.
