@@ -15,10 +15,13 @@ website:
         href: about.qmd  
       - text: "Publications"
         href: publi.qmd
-      - text: "Awards"
+      - text: "Honors and Awards"
         href: award.qmd
+      - text: "Teaching Experience and Student Supervision"
+        href: teachingexperience.qmd
       - text: "CV"
         href: cv.qmd
+        
 
 
 format:
@@ -30,3 +33,4 @@ format:
 execute:
   freeze: auto
   
+cf
