@@ -2,7 +2,7 @@
 pagetitle: "Teaching Experience and Student Supervision"
 ---
 :::{#template-area}
-## Teaching Experience
+## Teaching Experience 
 | | |
 |---|---|
 | **Summer Semester 2026** | **Lecturer and co-coordinator** |
@@ -19,7 +19,7 @@ pagetitle: "Teaching Experience and Student Supervision"
 |  | **One-day excursion** |
 |  | Excursion to the Swabian Alb - Karst Processes at the Surface|
 :::
-## Student Supervision
+## Student Supervision 
 | **Bachelor thesis** | |
 | **Summer Semester 2026** | J. Christmann (Water isotopes, trace elements and PFAS in the Swabian Alb karst system)|
 | **Summer Semester 2025** | J. Baum (Stable isotope compositions in precipitation on the Swabian Alb)|
