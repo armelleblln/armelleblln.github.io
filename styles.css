@@ -20,7 +20,6 @@ footer a {
 a {
   color: #6c757d;
 }
-
 table,
 th,
 td {
@@ -29,4 +28,6 @@ td {
 
 table {
   border-collapse: collapse;
+  table-layout: auto;
+  width: auto;
 }
