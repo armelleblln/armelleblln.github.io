@@ -20,3 +20,13 @@ footer a {
 a {
   color: #6c757d;
 }
+
+table,
+th,
+td {
+  border: none !important;
+}
+
+table {
+  border-collapse: collapse;
+}
