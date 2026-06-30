@@ -19,6 +19,7 @@ pagetitle: "Armelle Ballian - Teaching Experience and Student Supervision"
 |  | **One-day excursion** |
 |  | Excursion to the Swabian Alb - Karst Processes at the Surface|
 :::
+:::
 ## Student Supervision 
 | | |
 |--|---|
@@ -28,7 +29,7 @@ pagetitle: "Armelle Ballian - Teaching Experience and Student Supervision"
 
 | **Master thesis** | |
 | **Summer Semester 2026** | D. Lo Triglia (Tracing isotopes from rain to calcite)|
-
+:::
 ---
 
 
