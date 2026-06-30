@@ -1,5 +1,5 @@
 ---
-pagetitle: "Armelle Ballian"
+pagetitle: "Armelle Ballian - Publications"
 ---
 :::{#template-area}
 ## Publications 
