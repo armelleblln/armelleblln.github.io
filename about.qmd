@@ -16,7 +16,7 @@ D-72076 Tuebingen, Germany <br>
 
 Tel: +49 7071 29 72492 <br> 
 Email: armelle.ballian@uni-tuebingen.de <br>
-
+:::
 
 
 :::
@@ -28,6 +28,8 @@ My research integrates data from an extensive cave climate monitoring network ac
 
 ![Current research](dripwater.jpg)
 *Sampling cave drip water in the Schertelshoehle, Swabian Alb (August 2025)*
+
+:::
 
 :::
 ## My Background
@@ -45,6 +47,8 @@ My project focuses on the Western and Eastern Alps, along with extending the rec
 When I am not working in the lab, I am playing cello, boxing, crafting, or hiking (in the Alps).
 
 :::
+
+:::
 ## Education
 
 2021-2025 | PhD student | Senckenberg Climate and Biodiversity Research Centre (SBiK-Frankfurt am Main, Germany) 
@@ -52,7 +56,7 @@ When I am not working in the lab, I am playing cello, boxing, crafting, or hikin
 2017-2020 | Master of Science in Geology, Focus Geohazards | University of Freiburg im Breisgau (Germany)
 
 2014-2017 | Bachelor of Science in Geology | Jean Monnet University (Saint-Etienne, France) and ERASMUS at University of Freiburg im Breisgau (Germany)
-
+:::
 ___
 
 ![AGU23](pic6.jpg)
