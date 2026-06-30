@@ -20,7 +20,7 @@ pagetitle: "Armelle Ballian - Teaching Experience and Student Supervision"
 |  | Excursion to the Swabian Alb - Karst Processes at the Surface|
 :::
 
-:::
+:::{#template-area}
 ## Student Supervision 
 | | |
 |--|---|
