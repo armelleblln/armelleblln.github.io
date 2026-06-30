@@ -1,14 +1,14 @@
 ---
 pagetitle: "Grants and Awards"
 ---
-:::{#template-area}
+:::
 ## Grant
 
 September 2025 | 3000€ Geogenomic Archaeology Campus Tübingen
 Funded project: "EARTH MEMORY - Caves as Memory Archives of Climate and Life"
 
 
-:::{#template-area}
+:::
 ## Awards
 
 September 2024 | GeoSaxonia 2024 Poster Presentation Award 3rd place
