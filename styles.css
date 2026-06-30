@@ -17,3 +17,6 @@ footer a {
   text-decoration: underline;
   margin: 0 0.5em;
 }
+a {
+  color: #6c757d;
+}
