@@ -14,9 +14,9 @@ website:
       - text: "About me"
         href: about.qmd
       - text: "Publications"
-        href: publi.qmd
+        href: publications.qmd
       - text: "Honors and Awards"
-        href: award.qmd
+        href: awards.qmd
       - text: "Teaching Experience and Student Supervision"
         href: teaching.qmd
       - text: "Service and Professional Memberships"
