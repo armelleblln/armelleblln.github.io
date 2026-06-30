@@ -20,7 +20,7 @@ Email: armelle.ballian@uni-tuebingen.de <br>
 
 
 :::{#template-area}
-## My current research
+## Current research
 
 Since April 2025, I joined the [Climatology and the Biosphere group](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/geowissenschaften/arbeitsgruppen/geo-und-umweltnaturwissenschaften/geo-und-umweltnaturwissenschaften/climatology-and-the-biosphere/workgroup/){target="_blank"} at the university of Tübingen as a Postdoctoral Researcher. 
 In my current role, I am particularly interested in the hydrological cycle on the Swabian Alb karstic region and understanding the links between (paleo)climatic, atmospheric, hydrospheric, and biospheric processes.
@@ -32,7 +32,7 @@ My research integrates data from an extensive cave climate monitoring network ac
 :::
 
 :::{#template-area}
-## My Background
+## Background
 
 I'm a passionate geologist and paleoclimate scientist based in Tübingen, Germany. With a deep love for understanding Earth's processes, I dedicate my work to uncovering the past climates and environments of our planet. My main interests cover isotope geochemistry, paleoclimatology, exogenous processes, and paleoenvironmental studies.
 
