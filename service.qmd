@@ -2,7 +2,7 @@
 ---
 pagetitle: "Service and professional memberships"
 ---
-:::{#template-area}
+:::
 ## Service
 
 2026 – Present | Past Global Changes (PAGES) - Member of the "Hydroclimate2k" working group [https://pastglobalchanges.org/user/10729](https://pastglobalchanges.org/user/10729){target="_blank"}
