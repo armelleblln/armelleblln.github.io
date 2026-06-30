@@ -1,7 +1,7 @@
 ---
 pagetitle: "Armelle Ballian"
 ---
-:::
+:::{#template-area}
 ## My contact info
 
 Dr. Armelle Ballian (she/her) <br>
