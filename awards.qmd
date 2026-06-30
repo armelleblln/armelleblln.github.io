@@ -1,7 +1,7 @@
 ---
 pagetitle: "Armelle Ballian - Grants and Awards"
 ---
-:::
+:::{#template-area}
 ## Grant
 
 September 2025 | 3000€ Geogenomic Archaeology Campus Tübingen
