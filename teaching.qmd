@@ -4,7 +4,7 @@ pagetitle: "Armelle Ballian - Teaching Experience and Student Supervision"
 :::{#template-area}
 ## Teaching Experience 
 | | |
-|--|---|
+|---|---|
 | **Summer Semester 2026** | **Lecturer and co-coordinator** |
 |  | Environmental Isotope Chemistry (M208), University of Tübingen|
 |  | Climate Dynamics and Climate Modeling (M322), University of Tübingen|
@@ -23,7 +23,7 @@ pagetitle: "Armelle Ballian - Teaching Experience and Student Supervision"
 :::{#template-area}
 ## Student Supervision 
 | | |
-|--|---|
+|---|---|
 | **Bachelor thesis** | |
 | **Summer Semester 2026** | J. Christmann (Water isotopes, trace elements and PFAS in the Swabian Alb karst system)|
 | **Summer Semester 2025** | J. Baum (Stable isotope compositions in precipitation on the Swabian Alb)|
