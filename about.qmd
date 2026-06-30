@@ -2,19 +2,19 @@
 pagetitle: "Armelle Ballian"
 ---
 ::: {#template-area}
-## My current research 
+## My current research
 Since April 2025, I joined the [Climatology and the Biosphere group](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/geowissenschaften/arbeitsgruppen/geo-und-umweltnaturwissenschaften/geo-und-umweltnaturwissenschaften/climatology-and-the-biosphere/workgroup/){target="_blank"} at the university of Tübingen as a Postdoctoral Researcher. 
 In my current role, I am particularly interested in the hydrological cycle on the Swabian Alb karstic region and understanding the links between (paleo)climatic, atmospheric, hydrospheric, and biospheric processes.
 My research integrates data from an extensive cave climate monitoring network across the Swabian Alb with meteorological observations from the weather station on the roof of our institute in Tübingen. Together with a Bachelor's and a Master's project that I am currently supervising, this work will provide a comprehensive understanding of the spatial and temporal variability of water stable isotopes from different sources across the Swabian Alb. It will also shed light on dripwater residence times and the hydrological pathways that control water movement through the Swabian Alb cave systems. Also, by comparing observation-based stable isotope records across the Swabian Alb with isotope-enabled climate models, I aim to analyze interannual variations in precipitation, as well as teleconnections and seasonality patterns.
 
 ![Current research](dripwater.jpg)
-*Sampling cave drip water in the Schertelshöhle, Swabian Alb (August 2025)*
+*Sampling cave drip water in the Schertelshoehle, Swabian Alb (August 2025)*
 
 :::
 ## My Background
 I'm a passionate geologist and paleoclimate scientist based in Tübingen, Germany. With a deep love for understanding Earth's processes, I dedicate my work to uncovering the past climates and environments of our planet. My main interests cover isotope geochemistry, paleoclimatology, exogenous processes, and paleoenvironmental studies.
 
-I graduated with a Master's degree in Geology from the University of Freiburg. My MSc thesis aimed at reconstructing the Holocene coastal dynamics of the Chanthaburi estuary in the Gulf of Thailand. 
+I graduated with a Master's degree in Geology from the University of Freiburg. My MSc thesis aimed at reconstructing the Holocene coastal dynamics of the Chanthaburi estuary in the Gulf of Thailand.
 I pursued my academic journey in 2021 with a PhD at [the Senckenberg Biodiversity and Climate Research Centre](https://www.senckenberg.de/en/institutes/sbik-f/ag-paleoclimate-and-paleoenvironment-dynamics/){target="_blank"} in Frankfurt am Main expending my knowledge in paleoclimate and geochemistry. 
 
 
