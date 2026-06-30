@@ -17,7 +17,9 @@ D-72076 Tuebingen, Germany <br>
 Tel: +49 7071 29 72492 <br> 
 Email: armelle.ballian@uni-tuebingen.de <br>
 :::
-
+:::{#template-area}
+## Fields of specialization
+Continental paleoclimate and paleoenvironmental dynamics, surface processes, geomorphology, paleoaltimetry, terrestrial carbonates, paleosols, fault gouges, karst systems, cave weather monitoring, stable isotope geochemistry (δ^13^C, δ^17^O, δ^18^O, δ^2^H), carbonate clumped (∆~47) isotope thermometry.
 
 :::{#template-area}
 ## Current research
