@@ -2,6 +2,25 @@
 pagetitle: "Armelle Ballian"
 ---
 ::: {#template-area}
+## My contact info
+
+Dr. Armelle Ballian (she/her)
+Postdoctoral researcher
+Climatology and the Biosphere
+
+Room 5R16
+Eberhard Karls University Tübingen
+Geo- and Environmental Research Center
+Schnarrenbergstraße 94-96
+D-72076 Tuebingen
+Germany
+
+Tel: +49 7071 29 72492
+Email: armelle.ballian@uni-tuebingen.de
+
+
+
+::: {#template-area}
 ## My current research
 Since April 2025, I joined the [Climatology and the Biosphere group](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/geowissenschaften/arbeitsgruppen/geo-und-umweltnaturwissenschaften/geo-und-umweltnaturwissenschaften/climatology-and-the-biosphere/workgroup/){target="_blank"} at the university of Tübingen as a Postdoctoral Researcher. 
 In my current role, I am particularly interested in the hydrological cycle on the Swabian Alb karstic region and understanding the links between (paleo)climatic, atmospheric, hydrospheric, and biospheric processes.
