@@ -1,7 +1,7 @@
 ---
 pagetitle: "Armelle Ballian - Teaching Experience and Student Supervision"
 ---
-:::
+:::{#template-area}
 ## Teaching Experience 
 | | |
 |--|---|
