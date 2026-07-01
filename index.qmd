@@ -26,7 +26,7 @@ Update the YAML header. you can check out different layouts of the pre-formatted
 Update the legal information
 Write a short introduction set of you
 delete this section)
-:::{#template-area}{.text-center}
+:::{#template-area}
 I am currently postdoc within the *Climatology and the Biosphere* research group at the University of Tübingen (Germany). 
 
 ## Fields of specialization
