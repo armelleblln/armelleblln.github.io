@@ -31,9 +31,7 @@ I am currently postdoc at the Geo- and Environmental Research Centre (GUZ) in T�
 
 ## Fields of specialization
 Continental paleoclimate and paleoenvironmental dynamics, surface processes, geomorphology, stable isotope paleoaltimetry, terrestrial carbonates and paleosols, fault gouges, karst systems and cave climate monitoring, stable isotope geochemistry (δ^13^C, δ^17^O, δ^18^O, δ^2^H), carbonate clumped (∆47) isotope thermometry.
-::: 
 
-:::{#template-area}
 ## Contact
 
 I'd be happy to connect regarding research, collaborations, or teaching opportunities.
