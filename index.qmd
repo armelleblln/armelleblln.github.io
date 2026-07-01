@@ -35,7 +35,7 @@ This website showcases my research, publications, and teaching activities.
 
 ::: {.columns}
 
-::: {.column width="50%"}
+::: {.column width="70%"}
 
 ## Fields of specialization
 - Continental paleoclimate and paleoenvironmental dynamics
@@ -51,14 +51,6 @@ This website showcases my research, publications, and teaching activities.
 :::
 
 ::: {.column width="50%"}
-
-## News
-
-- **April 2026:** Presented my current work at EGU26 in Vienna.
-- **March 2026:** Successfully defended my PhD thesis.
-
----
-
 ## Contact
 
 I'd be happy to connect regarding research, collaborations, or teaching opportunities.
@@ -66,6 +58,15 @@ I'd be happy to connect regarding research, collaborations, or teaching opportun
 - ✉️ **Email:** armelle.ballian@uni-tuebingen.de
 - ☎️ **Tel:** +49 7071 29 72492
 - 📍 **Address:** Eberhard Karls University Tübingen, Geo- and Environmental Research Center, Schnarrenbergstraße 94-96, D-72076 Tuebingen, Germany
+
+:::
+
+## News
+
+- **April 2026:** Presented my current work at EGU26 in Vienna.
+- **March 2026:** Successfully defended my PhD thesis.
+
+---
 
 
 --------
