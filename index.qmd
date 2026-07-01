@@ -28,13 +28,18 @@ Write a short introduction set of you
 delete this section)
 
 -----
-:::{#template-area}
+::: {#template-area}
 I am currently postdoc in Tübingen (Germany) at the Geo- and Environmental Research Centre (GUZ) in the Climatology and the Biosphere group. 
 Je suis actuellement postdoc à Tübingen (Allemagne) au sein du groupe 'Climatology and the Biosphere'. 
 :::
 -----
 
 :::{#template-area}
+## Fields of specialization
+Continental paleoclimate and paleoenvironmental dynamics, surface processes, geomorphology, paleoaltimetry, terrestrial carbonates, paleosols, fault gouges, karst systems, cave weather monitoring, stable isotope geochemistry (δ^13^C, δ^17^O, δ^18^O, δ^2^H), carbonate clumped (∆~47) isotope thermometry.
+::: 
+
+::: {#template-area}
 ## My contact info
 
 Dr. Armelle Ballian (she/her) <br>
@@ -50,12 +55,6 @@ D-72076 Tuebingen, Germany <br>
 Tel: +49 7071 29 72492 <br> 
 Email: armelle.ballian@uni-tuebingen.de <br>
 :::
-
-:::{#template-area}
-## Fields of specialization
-Continental paleoclimate and paleoenvironmental dynamics, surface processes, geomorphology, paleoaltimetry, terrestrial carbonates, paleosols, fault gouges, karst systems, cave weather monitoring, stable isotope geochemistry (δ^13^C, δ^17^O, δ^18^O, δ^2^H), carbonate clumped (∆~47) isotope thermometry.
-::: 
-
 -----------------
 
 Below are some pictures from the fieldwork carried out during my Master’s, PhD and postdoc. 
