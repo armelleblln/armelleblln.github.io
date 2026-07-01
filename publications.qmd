@@ -4,7 +4,7 @@ pagetitle: "Armelle Ballian - Publications"
 :::{#template-area}
 ## Publications 
 <u>Ballian, A.</u>, Meijers, M. J. M., Boateng, D., Cojan, I., Mutz, S. G., Ehlers, T. A., and Mulch, A. (under review).
-Oxygen isotopic composition of Miocene meteoric water (d18Ow) in Alpine foreland basins. Geochemistry, Geophysics, Geosystems.
+Oxygen isotopic composition of Miocene meteoric water (δ^18^Ow) in Alpine foreland basins. Geochemistry, Geophysics, Geosystems.
 
 Liu, X., Liu, Y. <u>Ballian, A.</u>, Bernecker, M., Fiebig, J., Rao, Y., Ding, L., and Mulch, A. (2026).
 Low Elevation and Humid Climate in the Eocene Gerze Basin, Central Tibet: Insights from Multi-Proxy Isotopic Analyses. Global and Planetary Change, 105547, ISSN 0921-8181.[🔍](https://doi.org/10.1016/j.gloplacha.2026.105547){target="_blank"}  
