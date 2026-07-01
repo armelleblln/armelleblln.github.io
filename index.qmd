@@ -1,5 +1,5 @@
 ---
-title: "Armelle Ballian"
+title: "Hi, I'm Armelle Ballian"
 about:
   id: template-area
   template: jolla
@@ -27,30 +27,13 @@ Update the legal information
 Write a short introduction set of you
 delete this section)
 
-
-# Hi, I'm Armelle Ballian 
-
 I am currently postdoc in Tübingen (Germany) at the Geo- and Environmental Research Centre (GUZ) in the Climatology and the Biosphere group. 
 This website showcases my research, publications, and teaching activities.
 
-::: {.columns}
-
-::: {.column width="&0%"}
-
 ## Fields of specialization
-- Continental paleoclimate and paleoenvironmental dynamics
-- Surface processes
-- Geomorphology 
-- Paleoaltimetry 
-- Terrestrial carbonates and paleosols
-- Fault gouges
-- Karst systems and cave climate monitoring
-- Stable isotope geochemistry (δ^13^C, δ^17^O, δ^18^O, δ^2^H)
-- Carbonate clumped (∆~47) isotope thermometry.
+- Continental paleoclimate and paleoenvironmental dynamics, surface processes, geomorphology, stable isotope paleoaltimetry, terrestrial carbonates and paleosols, fault gouges, karst systems and cave climate monitoring, stable isotope geochemistry (δ^13^C, δ^17^O, δ^18^O, δ^2^H), carbonate clumped (∆~47) isotope thermometry.
 
 :::
-
-::: {.column width="30%"}
 ## Contact
 
 I'd be happy to connect regarding research, collaborations, or teaching opportunities.
@@ -73,7 +56,7 @@ I'd be happy to connect regarding research, collaborations, or teaching opportun
 Below are some pictures from the fieldwork carried out during my Master’s, PhD and postdoc. 
 Ci-dessous des souvenirs du travail de terrain effectué pendant mon Master, mon doctorat et mon postdoc.
 ---
-
+::: {.column width="50%"}
 ![Falkensteiner Höhle, Germany](ArmelleFalki.jpg)
 *Falkensteiner Höhle, Swabian Alb (2025) *
 
@@ -83,7 +66,9 @@ Ci-dessous des souvenirs du travail de terrain effectué pendant mon Master, mon
 
 ![Mölltal Valley, Austria](pic4.jpg)
 *Mölltal Valley, Austria (2021)*
+:::
 
+::: {.column width="50%"}
 ![Digne Valensole basin, SE France](pic1.jpeg)
 *Digne Valensole basin, SE France | Sampling pedogenic carbonate nodules (2021)*
 
@@ -92,8 +77,7 @@ Ci-dessous des souvenirs du travail de terrain effectué pendant mon Master, mon
 
 ![Chanthaburi Region, Thailand](pic5.jpg)
 *Chanthaburi, Thailand | Excavating beach ridges (2019) ©S. Chawchai*
-
-
+::: 
 
 
 
