@@ -39,7 +39,7 @@ Ci-dessous, des photos du travail de terrain effectué pendant mes études de Ma
 -----
 ::: {.callout-note}
 Update: I sucessfully defended my PhD! J'ai soutenu ma thèse doctorale ! 
-::: 
+:::
 
 ![My PhD defense on 19.03.2026 at Senckenberg Biodiversity and Climate Research Centre, Frankfurt am Main](picdefense.png)
 *My PhD defense on 19.03.2026 at Senckenberg Biodiversity and Climate Research Centre, Frankfurt am Main*
