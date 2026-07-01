@@ -35,7 +35,7 @@ This website showcases my research, publications, and teaching activities.
 
 ::: {.columns}
 
-::: {.column width="70%"}
+::: {.column width="&0%"}
 
 ## Fields of specialization
 - Continental paleoclimate and paleoenvironmental dynamics
@@ -50,7 +50,7 @@ This website showcases my research, publications, and teaching activities.
 
 :::
 
-::: {.column width="50%"}
+::: {.column width="30%"}
 ## Contact
 
 I'd be happy to connect regarding research, collaborations, or teaching opportunities.
