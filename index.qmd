@@ -15,7 +15,7 @@ about:
       text: Google Scholar
       href: https://scholar.google.com/citations?user=aId4LewAAAAJ&hl=fr
     - icon: mouse
-      text: Current position
+      text: Website Climatology and the Biosphere
       href: https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/geowissenschaften/arbeitsgruppen/geo-und-umweltnaturwissenschaften/geo-und-umweltnaturwissenschaften/climatology-and-the-biosphere/workgroup/team/armelle-ballian/
     - icon: person-vcard
       text: Contact
@@ -40,7 +40,8 @@ I'd be happy to connect regarding research, collaborations, or teaching opportun
 
  ✉️ **Email:** armelle.ballian@uni-tuebingen.de <br>
 ☎️ **Tel:** +49 7071 29 72492 <br>
-📍 **Address:** Eberhard Karls University Tübingen, Geo- and Environmental Research Center, Schnarrenbergstraße 94-96, D-72076 Tuebingen, Germany
+📍 **Address:** Eberhard Karls University Tübingen, Geo- and Environmental Research Center, <br>
+Schnarrenbergstraße 94-96, D-72076 Tuebingen, Germany
 
 :::
 
