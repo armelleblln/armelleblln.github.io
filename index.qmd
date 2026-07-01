@@ -15,7 +15,7 @@ about:
       text: Google Scholar
       href: https://scholar.google.com/citations?user=aId4LewAAAAJ&hl=fr
     - icon: mouse
-      text: Website Climatology and the Biosphere
+      text: Website department of Climatology and the Biosphere
       href: https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/geowissenschaften/arbeitsgruppen/geo-und-umweltnaturwissenschaften/geo-und-umweltnaturwissenschaften/climatology-and-the-biosphere/workgroup/team/armelle-ballian/
     - icon: person-vcard
       text: Contact
@@ -26,8 +26,8 @@ Update the YAML header. you can check out different layouts of the pre-formatted
 Update the legal information
 Write a short introduction set of you
 delete this section)
-:::{#template-area}
-I am currently postdoc at the Geo- and Environmental Research Centre (GUZ) in Tübingen (Germany). 
+:::{#template-area}{.text-center}
+I am currently postdoc within the *Climatology and the Biosphere* research group at the University of Tübingen (Germany). 
 
 ## Fields of specialization
 Continental paleoclimate and paleoenvironmental dynamics, surface processes, geomorphology, stable isotope paleoaltimetry, terrestrial carbonates and paleosols, fault gouges, karst systems and cave climate monitoring, stable isotope geochemistry (δ^13^C, δ^17^O, δ^18^O, δ^2^H), carbonate clumped (∆47) isotope thermometry.
@@ -39,7 +39,7 @@ I'd be happy to connect regarding research, collaborations, or teaching opportun
  ✉️ **Email:** armelle.ballian@uni-tuebingen.de <br>
 ☎️ **Tel:** +49 7071 29 72492 <br>
 📍 **Address:** Eberhard Karls University Tübingen, Geo- and Environmental Research Center, <br>
-Schnarrenbergstraße 94-96, D-72076 Tuebingen, Germany
+                Schnarrenbergstraße 94-96, D-72076 Tuebingen, Germany
 
 :::
 
