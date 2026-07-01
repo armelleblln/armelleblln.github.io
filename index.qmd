@@ -57,6 +57,8 @@ Schnarrenbergstraße 94-96, D-72076 Tuebingen, Germany
 Below are some pictures from the fieldwork carried out during my Master’s, PhD and postdoc. 
 Ci-dessous des souvenirs du travail de terrain effectué pendant mon Master, mon doctorat et mon postdoc.
 ---
+::: {.columns}
+
 ::: {.column width="50%"}
 ![Falkensteiner Höhle, Germany](ArmelleFalki.jpg)
 *Falkensteiner Höhle, Swabian Alb (2025) *
@@ -69,6 +71,7 @@ Ci-dessous des souvenirs du travail de terrain effectué pendant mon Master, mon
 *Mölltal Valley, Austria (2021)*
 :::
 
+
 ::: {.column width="50%"}
 ![Digne Valensole basin, SE France](pic1.jpeg)
 *Digne Valensole basin, SE France | Sampling pedogenic carbonate nodules (2021)*
@@ -78,7 +81,7 @@ Ci-dessous des souvenirs du travail de terrain effectué pendant mon Master, mon
 
 ![Chanthaburi Region, Thailand](pic5.jpg)
 *Chanthaburi, Thailand | Excavating beach ridges (2019) ©S. Chawchai*
-::: 
+:::
 
 
 
