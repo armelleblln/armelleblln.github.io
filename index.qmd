@@ -1,5 +1,5 @@
 ---
-title: "Hi, I'm Armelle Ballian"
+title: "Armelle Ballian"
 about:
   id: template-area
   template: jolla
