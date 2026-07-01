@@ -26,12 +26,13 @@ Update the YAML header. you can check out different layouts of the pre-formatted
 Update the legal information
 Write a short introduction set of you
 delete this section)
-
+:::{#template-area}
 I am currently postdoc in Tübingen (Germany) at the Geo- and Environmental Research Centre (GUZ) in the Climatology and the Biosphere group. 
 This website showcases my research, publications, and teaching activities.
 
 ## Fields of specialization
 Continental paleoclimate and paleoenvironmental dynamics, surface processes, geomorphology, stable isotope paleoaltimetry, terrestrial carbonates and paleosols, fault gouges, karst systems and cave climate monitoring, stable isotope geochemistry (δ^13^C, δ^17^O, δ^18^O, δ^2^H), carbonate clumped (∆47) isotope thermometry.
+::: 
 
 :::{#template-area}
 ## Contact
