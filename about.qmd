@@ -6,11 +6,11 @@ pagetitle: "Armelle Ballian"
 
 I'm a passionate geologist and paleoclimate scientist based in Tübingen, Germany. With a deep love for understanding Earth's processes, I dedicate my work to uncovering the past climates and environments of our planet. My main interests cover isotope geochemistry, paleoclimatology, exogenous processes, and paleoenvironmental studies.
 
-I graduated with a Master's degree in Geology from the University of Freiburg. My MSc thesis aimed at reconstructing the Holocene coastal dynamics of the Chanthaburi estuary in the Gulf of Thailand.
-I pursued my academic journey in 2021 with a PhD at [the Senckenberg Biodiversity and Climate Research Centre](https://www.senckenberg.de/en/institutes/sbik-f/ag-paleoclimate-and-paleoenvironment-dynamics/){target="_blank"} in Frankfurt am Main expending my knowledge in paleoclimate and geochemistry. 
+I graduated with a Master's degree in Geology from the [University of Freiburg im Breisgau](https://www.sedimentologie.uni-freiburg.de/){target="_blank"}. My MSc thesis aimed at reconstructing the Holocene coastal dynamics of the Chanthaburi estuary in the Gulf of Thailand integrating mapping with detailed stratigraphy and the application of Optical Stimulated Luminescence (OSL). <br>
+I pursued my academic journey in 2021 with a PhD at [the Senckenberg Biodiversity and Climate Research Centre](https://www.senckenberg.de/en/research/institutes-overview/sbikf-institut/){target="_blank"} in Frankfurt am Main expending my knowledge in paleoclimate and geochemistry. 
 
 
-My PhD project was part of the second phase of a DFG-funded SPP  ‘Mountain Building Processes in Four Dimensions (MB-4D)’.
+My PhD project was part of the second phase of a DFG-funded SPP  ‘Mountain Building Processes in Four Dimensions (MB-4D)’. <br>
 The project, entitled ‘Reconstructing Eastward Propagation of Surface Uplift in the Alps: Integrating Stable Isotope Paleoaltimetry and Paleoclimate Modelling (REAL)’ aimed at constraining the surface uplift history of the European Alps in a paleoclimatic context.   
 My project focused on the Western and Eastern Alps, along with extending the record for the Central Alps to pre-Miocene times. The research focused on stable isotope-based paleoelevation and paleoclimate reconstructions (ẟ18O, ẟD, D47-D48). The obtained ẟ-ẟ paleoaltimetry and clumped isotope-derived paleotemperature records were coupled with an isotope tracking atmospheric General Circulation Model (GCM) performed by colleagues from the ‘Earth System Dynamics Group’ at the University of Tübingen.  
 
