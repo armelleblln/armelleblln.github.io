@@ -27,40 +27,52 @@ Update the legal information
 Write a short introduction set of you
 delete this section)
 
------
-::: {#template-area}
+
+# Hi, I'm Armelle Ballian 
+
 I am currently postdoc in Tübingen (Germany) at the Geo- and Environmental Research Centre (GUZ) in the Climatology and the Biosphere group. 
-Je suis actuellement postdoc à Tübingen (Allemagne) au sein du groupe 'Climatology and the Biosphere'. 
-:::
------
+This website showcases my research, publications, and teaching activities.
 
-:::{#template-area}
+::: {.columns}
+
+::: {.column width="50%"}
+
 ## Fields of specialization
-Continental paleoclimate and paleoenvironmental dynamics, surface processes, geomorphology, paleoaltimetry, terrestrial carbonates, paleosols, fault gouges, karst systems, cave weather monitoring, stable isotope geochemistry (δ^13^C, δ^17^O, δ^18^O, δ^2^H), carbonate clumped (∆~47) isotope thermometry.
-::: 
+- Continental paleoclimate and paleoenvironmental dynamics
+- Surface processes
+- Geomorphology 
+- Paleoaltimetry 
+- Terrestrial carbonates and paleosols
+- Fault gouges
+- Karst systems and cave climate monitoring
+- Stable isotope geochemistry (δ^13^C, δ^17^O, δ^18^O, δ^2^H)
+- Carbonate clumped (∆~47) isotope thermometry.
 
-::: {#template-area}
-## My contact info
-
-Dr. Armelle Ballian (she/her) <br>
-Postdoctoral researcher <br>
-Climatology and the Biosphere <br> 
-
-Room 5R16 <br>
-Eberhard Karls University Tübingen <br> 
-Geo- and Environmental Research Center <br> 
-Schnarrenbergstraße 94-96 <br>
-D-72076 Tuebingen, Germany <br>  
-
-Tel: +49 7071 29 72492 <br> 
-Email: armelle.ballian@uni-tuebingen.de <br>
 :::
------------------
 
-Below are some pictures from the fieldwork carried out during my Master’s, PhD and postdoc. 
-Ci-dessous des souvenirs du travail de terrain effectué pendant mon Master, mon doctorat et mon postdoc.
+::: {.column width="50%"}
+
+## News
+
+- **April 2026:** Presented my current work at EGU26 in Vienna.
+- **March 2026:** Successfully defended my PhD thesis.
+
+---
+
+## Contact
+
+I'd be happy to connect regarding research, collaborations, or teaching opportunities.
+
+- ✉️ **Email:** armelle.ballian@uni-tuebingen.de
+- ☎️ **Tel:** +49 7071 29 72492
+- 📍 **Address:** Eberhard Karls University Tübingen, Geo- and Environmental Research Center, Schnarrenbergstraße 94-96, D-72076 Tuebingen, Germany
+
 
 --------
+Below are some pictures from the fieldwork carried out during my Master’s, PhD and postdoc. 
+Ci-dessous des souvenirs du travail de terrain effectué pendant mon Master, mon doctorat et mon postdoc.
+---
+
 ![Falkensteiner Höhle, Germany](ArmelleFalki.jpg)
 *Falkensteiner Höhle, Swabian Alb (2025) *
 
