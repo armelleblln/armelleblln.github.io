@@ -27,7 +27,7 @@ Update the legal information
 Write a short introduction set of you
 delete this section)
 :::{#template-area}
-I am currently postdoc in Tübingen (Germany) at the Geo- and Environmental Research Centre (GUZ) in the Climatology and the Biosphere group. 
+I am currently postdoc at the Geo- and Environmental Research Centre (GUZ) in Tübingen (Germany). 
 This website showcases my research, publications, and teaching activities.
 
 ## Fields of specialization
