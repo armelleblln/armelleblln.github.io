@@ -22,7 +22,7 @@ Bernecker, M., Hofmann, S., Staudigel, P. T., Davies, A. J., Tagliavento, M., Me
 Boateng, D., Mutz, S. G., <u>Ballian, A.</u>, Meijers, M. J. M. , Methner, K., Botsyun, S., Mulch, A., and Ehlers, T. A. (2023).  
 The effects of diachronous surface uplift of the European Alps on regional climate and the oxygen isotopic composition of precipitation. Earth System Dynamics Discussions, 1-45 [🔍](https://esd.copernicus.org/articles/14/1183/2023/esd-14-1183-2023.pdf){target="_blank"} 
 :::
-:::
+
 ## Conference abstracts  
 
 Ballian, A., Meijers, M. M. J., Cojan, I., Huygue, D., Methner, K., Boateng, D., Mutz, S. G., Kurz, W., Krsnik, E., Zwingmann, H., Rolland, Y., Ehlers, T., Fiebig, J., and Mulch, A.: Early to Middle Miocene paleoaltimetry results from the European Alps. GeoSaxonia, 2024, 10.48380/5958-bd76. [🔍](https://www.dggv.de/e-publikationen/early-to-middle-miocene-paleoaltimetry-results-from-the-european-alps/){target="_blank"}
@@ -33,19 +33,20 @@ Basin, SE France), poster, 9th International Clumped Isotope Workshop, Stony Bro
 Ballian, A., Meijers, M. M. J., Cojan, I., Huygue, D., Methner, K., Boateng, D., Mutz, S. G., Kurz, W., Krsnik, E., Zwingmann, H., Rolland, Y., Ehlers, T., Fiebig, J., and Mulch, A.: Stable isotope paleoaltimetry reveals Early to Middle Miocene along-strike elevation
 differences of the European Alps, EGU General Assembly 2024, oral presentation, Vienna, Austria, 14–19 Apr 2024, EGU24-18901, 2024. [🔍](https://doi.org/10.5194/egusphere-egu24-18901){target="_blank"}
 
-[3] Ballian, A., Meijers, M. M. J., Methner, K., Cojan, I., Huygue, D., Fiebig, J., and Mulch, A.: Miocene (23-13 Ma) Northern Mediterranean continental paleotemperatures within a global climate framework (Digne-Valensole Basin, SE France), oral presentation, AGU Fall
+Ballian, A., Meijers, M. M. J., Methner, K., Cojan, I., Huygue, D., Fiebig, J., and Mulch, A.: Miocene (23-13 Ma) Northern Mediterranean continental paleotemperatures within a global climate framework (Digne-Valensole Basin, SE France), oral presentation, AGU Fall
 Meeting 2023 held in San Francisco, USA, 11–15 Dec 2023, Session: Paleoceanography and Paleoclimatology / Advances in the Miocene Climate Dynamics II Oral, id. PP54A-04., 2023. [🔍](https://ui.adsabs.harvard.edu/abs/2023AGUFMPP54A..04B/abstract){target="_blank"}
 
-[4] Ballian, A., Meijers, M. M. J., Cojan, I., Huygue, D., Methner, K., Boateng, D., Mutz, S. G., Walter, K., Krsnik, E., Zwingmann, H., Rolland, Y., Ehlers, T., Fiebig, J., and Mulch, A.: Early to Middle Miocene paleoaltimetry results from the Central and Eastern
+Ballian, A., Meijers, M. M. J., Cojan, I., Huygue, D., Methner, K., Boateng, D., Mutz, S. G., Walter, K., Krsnik, E., Zwingmann, H., Rolland, Y., Ehlers, T., Fiebig, J., and Mulch, A.: Early to Middle Miocene paleoaltimetry results from the Central and Eastern
 European Alps, poster, AGU Fall Meeting 2023 held in San Francisco, USA, 11–15 Dec 2023, id. PP54A-04., 2023. [🔍](https://ui.adsabs.harvard.edu/abs/2023AGUFM.T51E0159B/abstract){target="_blank"}
 
 Ballian, A., Meijers, M. J. M., Methner, K., Cojan, I., Huyghe, D., Fiebig, J., & Mulch, A. (2023). Miocene (23-13 Ma) continental paleotemperature record from the northern Mediterranean region (Digne-Valensole basin, SE France) within a global climatic framework. Annual 4D-MB Scientific Meeting. [🔍](http://dx.doi.org/10.17169/refubium-40985){target="_blank"} 
 
 Ballian, A., Boateng, D., Mutz, S. G., Meijers, M. J. M., Methner, K., Ehlers, T., & Mulch, A. (2023). The Alps Paleoelevation and Paleoclimate Experiment : Reconstructing Eastward Propagation of Surface Uplift in the ALPS (REAL). Annual 4D-MB Scientific Meeting. [🔍](http://dx.doi.org/10.17169/refubium-40986){target="_blank"} 
 
-Ballian, A., Meijers, M. J. M., Cojan, I., Huyghe, D., Fiebig, J., & Mulch, A. (2022). Early-Miocene stable isotope paleoaltimetry estimates for the Central Alps. EGU23 [🔍](https://scholar.google.com/citations?view_op=view_citation&hl=fr&user=aId4LewAAAAJ&citation_for_view=aId4LewAAAAJ:u5HHmVD_uO8C){target="_blank"}  
+Ballian, A., Meijers, M. J. M., Methner, K., Cojan, I., Huyghe, D., Fiebig, J., & Mulch, A. (2023). A Miocene (23–12.5 Ma) continental paleotemperature record from the northern Mediterranean region (Digne-Valensole Basin, SE France). EGU23 [🔍](https://meetingorganizer.copernicus.org/EGU23/EGU23-14517.html){target="_blank"}  
 
-Ballian, A., Meijers, M. J. M., Methner, K., Cojan, I., Huyghe, D., Fiebig, J., & Mulch, A. (2022). A Miocene (23–12.5 Ma) continental paleotemperature record from the northern Mediterranean region (Digne-Valensole Basin, SE France). EGU23 [🔍](https://meetingorganizer.copernicus.org/EGU23/EGU23-14517.html){target="_blank"}  
+Ballian, A., Meijers, M. J. M., Cojan, I., Huyghe, D., Fiebig, J., & Mulch, A. (2022). Early-Miocene stable isotope paleoaltimetry estimates for the Central Alps. EGU22 [🔍](https://meetingorganizer.copernicus.org/EGU22/EGU22-2346.html){target="_blank"}  
+
 :::
 
 ---
