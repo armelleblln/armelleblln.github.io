@@ -19,7 +19,7 @@ about:
       href: https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/geowissenschaften/arbeitsgruppen/geo-und-umweltnaturwissenschaften/geo-und-umweltnaturwissenschaften/climatology-and-the-biosphere/workgroup/team/armelle-ballian/
     - icon: person-vcard
       text: Contact
-      href: https://vcard.link/card/Dm8n.vcf
+      href: https://vcard.link/card/IwDb
 ---
 [comment]:  (Tasks for this page
 Update the YAML header. you can check out different layouts of the pre-formatted part at <https://quarto.org/docs/websites/website-about.html#templates>
