@@ -28,9 +28,10 @@ Write a short introduction set of you
 delete this section)
 
 -----
+:::{#template-area}
 I am currently postdoc in Tübingen (Germany) at the Geo- and Environmental Research Centre (GUZ) in the Climatology and the Biosphere group. 
 Je suis actuellement postdoc à Tübingen (Allemagne) au sein du groupe 'Climatology and the Biosphere'. 
-
+:::
 -----
 
 :::{#template-area}
