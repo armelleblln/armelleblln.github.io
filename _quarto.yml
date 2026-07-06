@@ -21,6 +21,8 @@ website:
         href: teaching.qmd
       - text: "Service and Professional Memberships"
         href: service.qmd
+      - text: "Public outreach"
+        href: outreach.qmd
       - text: "CV"
         href: cv.qmd
         
