@@ -2,8 +2,8 @@ project:
   type: website
     
 website:
-  site-url: https://armelleballian.github.io/
-  repo-url: https://github.com/armelleballian.github.io/
+  site-url: https://armelleblln.github.io/
+  repo-url: https://github.com/armelleballian/
   favicon: favicon.png
   title: "Armelle Ballian"
   reader-mode: true
