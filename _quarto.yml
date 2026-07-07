@@ -24,7 +24,7 @@ website:
         menu:
           - text: "Public outreach"
             href: outreach.qmd
-          - text: "Additional skills"
+          - text: "Miscellaneous"
             href: extra.qmd
       - text: "CV"
         href: cv.qmd
