@@ -16,9 +16,6 @@ Their destinations were the Climatology and Biosphere Working Group at the Geo- 
 
 ![Public outreach](armelle_outreach.jpeg)
 ---
-## Miscellaneous 
-
-2023 | Development of a streamlit application for (clumped isotope) data visualization: [https://clumped.streamlit.app/]](https://clumped.streamlit.app/){target="_blank"}
 
 
 
