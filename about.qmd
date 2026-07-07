@@ -43,17 +43,22 @@ My research integrates data from an extensive cave climate monitoring network ac
 :::
 ___
 
-
+::: {.image-container}
 ![Defense](picdefense.png){fig-align="center" width=50%}
 *I successfully defended my PhD on March 2025 at the Biodiversity and Climate Research Centre in Frankfurt am Main.*
+:::
 
+
+::: {.image-container}
 ![AGU23](AGU.jpeg){fig-align="center" width=50%}
 *Poster presentation at AGU23 for which I received an OSPA award (2023).*
+::: 
 
 
+::: {.image-container}
 ![First steps in the academia journey](pic7.JPG){fig-align="center" width=50%}
 *Go back to when the Master thesis was ready to submit and the academic journey ready to begin (2020).*
-
+:::
 
 ---
 
