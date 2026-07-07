@@ -76,8 +76,8 @@ Below are some pictures from the fieldwork carried out during my Master’s, PhD
 :::
 
 ::: {.image-container}
-![Chanthaburi Region, Thailand](pic5.jpg){width=50%}
-*Chanthaburi, Thailand | Excavating beach ridges (2019) ©S. Chawchai*
+![Chanthaburi, Thailand | Excavating beach ridges (2019) ©S. Chawchai](pic5.jpg){width=50%}
+
 :::
 
 
