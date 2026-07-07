@@ -2,11 +2,11 @@
 title: "Curriculum Vitae"
 ---
 
-You can download my CV by clicking the link below:
+You can open and download my CV below:
 
 [Download CV (PDF)](CV.pdf){target="_blank"}
 
-(updated on 30.06.2026)
+(updated on 07.07.2026)
 
 
 ---
