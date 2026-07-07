@@ -13,9 +13,6 @@ website:
     left:
       - text: "About me"
         href: about.qmd
-        menu:
-          - text: "Additional skills"
-            href: additional.qmd
       - text: "Publications"
         href: publications.qmd
       - text: "Teaching and Student Supervision"
@@ -24,11 +21,10 @@ website:
         href: awards.qmd
       - text: "Service"
         href: service.qmd
-        menu:
-          - text: "Public outreach"
-            href: outreach.qmd
-          - text: "Miscellaneous"
-            href: extra.qmd
+      - text: "Public outreach"
+        href: outreach.qmd
+      - text: "Miscellaneous"
+        href: extra.qmd
       - text: "CV"
         href: cv.qmd
         
