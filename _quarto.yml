@@ -5,7 +5,7 @@ website:
   site-url: https://armelleblln.github.io/
   repo-url: https://github.com/armelleballian/
   favicon: favicon.png
-  title: "Armelle Ballian"
+  title: "Dr. Armelle Ballian"
   reader-mode: true
   back-to-top-navigation: true
   body-footer: _footer.qmd
