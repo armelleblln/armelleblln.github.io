@@ -23,8 +23,6 @@ website:
         href: service.qmd
       - text: "Public outreach"
         href: outreach.qmd
-      - text: "Miscellaneous"
-        href: extra.qmd
       - text: "CV"
         href: cv.qmd
         
