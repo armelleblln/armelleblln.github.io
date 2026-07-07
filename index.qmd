@@ -49,6 +49,7 @@ March 2026: I successfully defended my PhD thesis! <br>
 
 
 Below are some pictures from the fieldwork carried out during my Master’s, PhD and postdoc.
+
 ::: {.image-container}
 ![Falkensteiner Höhle, Germany](ArmelleFalki.jpg){width=50%}
 *Falkensteiner Höhle, Swabian Alb (2025) ©Y. Wolfhard*
