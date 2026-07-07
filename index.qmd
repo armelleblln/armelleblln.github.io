@@ -50,22 +50,22 @@ March 2026: I successfully defended my PhD thesis! <br>
 
 Below are some pictures from the fieldwork carried out during my Master’s, PhD and postdoc.
 ::: {.image-container}
-![Falkensteiner Höhle, Germany](ArmelleFalki.jpg){width=50}
+![Falkensteiner Höhle, Germany](ArmelleFalki.jpg){width=50%}
 *Falkensteiner Höhle, Swabian Alb (2025) ©Y. Wolfhard*
 
-![Armantes section, Central Spain](pic2.jpg){width=50}
+![Armantes section, Central Spain](pic2.jpg){width=50%}
 *Armantes section, Central Spain (2022)*
 
-![Mölltal Valley, Austria](pic4.jpg){width=50}
+![Mölltal Valley, Austria](pic4.jpg){width=50%}
 *Mölltal Valley, Austria (2021)*
 
-![Digne Valensole basin, SE France](pic1.jpeg){width=50}
+![Digne Valensole basin, SE France](pic1.jpeg){width=50%}
 *Digne Valensole basin, SE France | Sampling pedogenic carbonate nodules (2021)*
 
-![Chanthaburi Region, Thailand](pic3.jpg){width=50}
+![Chanthaburi Region, Thailand](pic3.jpg){width=50%}
 *Chanthaburi, Thailand | Excavating beach ridges (2019) ©J. Miocic*
 
-![Chanthaburi Region, Thailand](pic5.jpg){width=50}
+![Chanthaburi Region, Thailand](pic5.jpg){width=50%}
 *Chanthaburi, Thailand | Excavating beach ridges (2019) ©S. Chawchai*
 :::
 
