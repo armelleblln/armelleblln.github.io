@@ -25,10 +25,10 @@ Peer reviewer for *Global and Planetary Change*, ISSN: 0921-8181
 ## Conference Chair
 
 September 2024 | Convener at GeoSaxonia 2024, Dresden, Germany | Session: ’Interactions between mountain building, climate and biodiversity’ [🔍](https://www.geosaxonia2024.de/topics---sessions.html#t08){target="_blank"}
-
+::: 
 ## Miscellaneous 
-
 2023 | Development of a streamlit application for (clumped isotope) data visualization: [https://clumped.streamlit.app/](https://clumped.streamlit.app/){target="_blank"}
+:::
 ---
 
 
