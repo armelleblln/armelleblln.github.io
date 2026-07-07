@@ -1,0 +1,8 @@
+
+---
+pagetitle: "Public outreach"
+---
+
+## Miscellaneous 
+
+2023 | Development of a streamlit application for (clumped isotope) data visualization: [https://clumped.streamlit.app/]](https://clumped.streamlit.app/){target="_blank"}
