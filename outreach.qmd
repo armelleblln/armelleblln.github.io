@@ -16,7 +16,7 @@ Their destinations were the Climatology and Biosphere Working Group at the Geo- 
 
 
 ::: {.image-container}
-![Public outreach](armelle_outreach.jpeg){width=50%}
+![](armelle_outreach.jpeg){width=50%}
 :::
 
 
