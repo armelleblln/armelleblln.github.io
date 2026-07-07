@@ -27,7 +27,7 @@ In my current role, I am particularly interested in the hydrological cycle on th
 My research integrates data from an extensive cave climate monitoring network across the Swabian Alb with daily rainwater samples and meteorological observations from the weather station on the roof of our institute in Tübingen. Together with a Bachelor's and a Master's project that I am currently supervising, this work will provide a comprehensive understanding of the spatial and temporal variability of water stable isotopes from different sources across the Swabian Alb. It will also shed light on dripwater residence times and the hydrological pathways that control water movement through the Swabian Alb cave systems. Also, by comparing observation-based stable isotope records across the Swabian Alb with isotope-enabled climate models, I aim to analyze interannual variations in precipitation, as well as teleconnections and seasonality patterns.
 :::
 ::: {.image-container}
-![Sampling cave drip water in the Schertelshoehle, Swabian Alb (August 2025) ©V. Novello](dripwater.jpg){width=50%}
+![Sampling cave drip water in the Schertelshoehle, Swabian Alb (August 2025) ©V. Novello](dripwater.jpg){width=80%}
 
 
 :::
@@ -49,13 +49,13 @@ ___
 
 
 ::: {.image-container}
-![Poster presentation at AGU23 for which I received an OSPA award (2023)](AGU.jpeg){fig-align="center" width=50%}
+![Poster presentation at AGU23 for which I received an OSPA award (2023)](AGU.jpeg){fig-align="center" width=80%}
 
 ::: 
 
 
 ::: {.image-container}
-![Go back to when the Master thesis was ready to submit and the academic journey ready to begin (2020)](pic7.JPG){fig-align="center" width=50%}
+![Go back to when the Master thesis was ready to submit and the academic journey ready to begin (2020)](pic7.JPG){fig-align="center" width=80%}
 
 :::
 
