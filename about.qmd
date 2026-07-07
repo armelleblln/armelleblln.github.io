@@ -50,7 +50,7 @@ ___
 *Poster presentation at AGU23 for which I received an OSPA award (2023).*
 
 
-![First steps in the academia journey](pic7.JPG)
+![First steps in the academia journey](pic7.JPG){width=50%}
 *Go back to when the Master thesis was ready to submit and the academic journey ready to begin (2020).*
 
 
