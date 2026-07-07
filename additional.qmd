@@ -7,6 +7,5 @@ pagetitle: "Additional skills"
 French: native\\
 English: C2\\
 German: C1\\
-
-## Programming 
+::: 
 
