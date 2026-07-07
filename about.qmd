@@ -44,7 +44,7 @@ My research integrates data from an extensive cave climate monitoring network ac
 ___
 
 ::: {.image-container}
-![I successfully defended my PhD on March 2025 at the Biodiversity and Climate Research Centre in Frankfurt am Main](picdefense.png){fig-align="center" width=50%}
+![I successfully defended my PhD in March 2026 in Frankfurt!](picdefense.png){fig-align="center" width=50%}
 :::
 
 
@@ -55,7 +55,7 @@ ___
 
 
 ::: {.image-container}
-![Go back to when the Master thesis was ready to submit and the academic journey ready to begin (2020)](pic7.JPG){fig-align="center" width=80%}
+![Go back to when the Master thesis was ready to submit and the academic journey ready to begin! (2020)](pic7.JPG){fig-align="center" width=80%}
 
 :::
 
