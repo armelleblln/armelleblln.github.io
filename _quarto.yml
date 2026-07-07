@@ -15,14 +15,17 @@ website:
         href: about.qmd
       - text: "Publications"
         href: publications.qmd
-      - text: "Honors and Awards"
-        href: awards.qmd
       - text: "Teaching and Student Supervision"
         href: teaching.qmd
-      - text: "Service and Professional Memberships"
+      - text: "Honors and Awards"
+        href: awards.qmd
+      - text: "Service"
         href: service.qmd
-      - text: "Public outreach"
-        href: outreach.qmd
+        menu:
+          - text: "Public outreach"
+            href: outreach.qmd
+          - text: "Miscellaneous"
+            href: extra.qmd
       - text: "CV"
         href: cv.qmd
         
