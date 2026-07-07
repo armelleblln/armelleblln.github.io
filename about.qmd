@@ -55,7 +55,7 @@ ___
 
 
 ::: {.image-container}
-![Go back to when the Master thesis was ready to submit and the academic journey ready to begin! (2020)](pic7.JPG){fig-align="center" width=80%}
+![Go back to September 2020 when the Master thesis was ready to submit and the academic journey ready to begin!](pic7.JPG){fig-align="center" width=80%}
 
 :::
 
