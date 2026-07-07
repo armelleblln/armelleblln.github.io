@@ -13,6 +13,9 @@ website:
     left:
       - text: "About me"
         href: about.qmd
+        menu:
+          - text: "Additional skills"
+            href: additional.qmd
       - text: "Publications"
         href: publications.qmd
       - text: "Teaching and Student Supervision"
