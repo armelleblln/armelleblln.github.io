@@ -56,27 +56,27 @@ Below are some pictures from the fieldwork carried out during my Master’s, PhD
 :::
 
 ::: {.image-container}
-![Armantes section, Central Spain (2022)](pic2.jpg){width=50%}
+![Armantes section, Central Spain (2022)](pic2.jpg){width=80%}
 
 :::
 
 ::: {.image-container}
-![Mölltal Valley, Austria (2021)](pic4.jpg){width=50%}
+![Mölltal Valley, Austria (2021)](pic4.jpg){width=80%}
 
 :::
 
 ::: {.image-container}
-![Digne Valensole basin, SE France | Sampling pedogenic carbonate nodules (2021)](pic1.jpeg){width=50%}
+![Digne Valensole basin, SE France | Sampling pedogenic carbonate nodules (2021)](pic1.jpeg){width=80%}
 
 :::
 
 ::: {.image-container}
-![Chanthaburi, Thailand | Excavating beach ridges (2019) ©J. Miocic](pic3.jpg){width=50%}
+![Chanthaburi, Thailand | Excavating beach ridges (2019) ©J. Miocic](pic3.jpg){width=80%}
 
 :::
 
 ::: {.image-container}
-![Chanthaburi, Thailand | Excavating beach ridges (2019) ©S. Chawchai](pic5.jpg){width=50%}
+![Chanthaburi, Thailand | Excavating beach ridges (2019) ©S. Chawchai](pic5.jpg){width=80%}
 
 :::
 
